@@ -1,3 +1,11 @@
+.home {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1500px;
+}
+
 .home__image {
   width: 100%;
   z-index: -1;
@@ -11,10 +19,4 @@
   margin-left: 5px;
   margin-right: 5px;
 }
-.home {
-  display: flex;
-  justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 1500px;
-}
+

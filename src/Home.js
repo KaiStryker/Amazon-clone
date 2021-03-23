@@ -13,7 +13,7 @@ function Home() {
                     id= "12321341"
                     title= "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
                     price= {29.99}
-                    image="https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+                    image="https://images-na.ssl-images-amazon.com/images/I/41Ag4WE7uyL.jpg"
                     rating = {5}/>
                 <Product
                     id = "49538094" 
