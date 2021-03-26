@@ -1,4 +1,4 @@
-# Full Stack Amazon Clone Website
+# Full Stack Amazon Clone App
 
 This project was created using ReactJs, ExpressJs, Stripe, Cors and Firebase.
 
