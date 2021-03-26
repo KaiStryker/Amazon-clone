@@ -1,6 +1,6 @@
 # Full Stack Amazon Clone App
 
-Full e-commerce build created using ReactJs, ExpressJs, NodeJs, Stripe, Cors and Firebase.
+Full e-commerce build created using React.Js, Express.Js, Node.Js, Stripe, Cors and Firebase.
 
 ## Features
 
